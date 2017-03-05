@@ -9,4 +9,4 @@
   * Add .jar file: right-click on project directory > Properties -> Java Build Path > Libraries > Add External JARs… > Select algs4.jar from location saved on computer
 5. Select file to test on line 65 of PercolationVisualizer and then run PercolationVisualizer.java
 
-End Result: https://goo.gl/photos/noTs6CrS17xYrfnbA
+Visualization: https://goo.gl/photos/noTs6CrS17xYrfnbA
