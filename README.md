@@ -9,6 +9,7 @@
   * PercolationStats.java
   * PercolationVisualizer.java
 4. Installing algs4 library 
-  a) Download algs4.jar locally file from Princeton: http://algs4.cs.princeton.edu/code/algs4.jar
-  b) Add .jar file: Project > Properties -> Java Build Path > Libraries > Add External JARs… > Select algs4.jar from location saved on computer
+  * Download algs4.jar locally file from Princeton: http://algs4.cs.princeton.edu/code/algs4.jar
+  * Add .jar file: Project > Properties -> Java Build Path > Libraries > Add External JARs… > Select algs4.jar from location saved on computer
 5. Download sample data files for testing and place within src directory: http://coursera.cs.princeton.edu/algs4/testing/percolation-testing.zip
+6. Select file to run on Line 65 and then run PercolationVisualizer.java
