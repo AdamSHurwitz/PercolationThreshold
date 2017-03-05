@@ -1,6 +1,6 @@
 # PercolationThreshold
 
-#Instructions To Run
+##Instructions To Run Visualization
 1. Download project locally
 2. Open an IDE (I used Eclipse)
 3. Move files from PercolationThreshold > src directory into Eclipse project src directory
